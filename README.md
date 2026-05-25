@@ -1,8 +1,17 @@
 # DAT803 Exam Project – Natural Gas Futures Time Series Analysis
+Time Series Analysis Performed by Kjetil Strandos – May 2026
 
 This repository contains my exam project for **DAT803 Data Engineering: From Theory to Practice**.
 
 The project analyzes **Natural Gas futures** as a financial time series. The main goal is to build a complete and reproducible data engineering and time series pipeline: from raw CSV data to cleaning, feature engineering, exploratory analysis, stationarity testing, ARIMA/SARIMA modelling, forecast evaluation and presentation in a Streamlit app.
+
+\---
+
+## Deliverable
+
+The final notebook export/report is submitted separately through Wiseflow as part of the DAT803 exam delivery.
+
+This repository contains the notebook, Streamlit app and supporting project files.
 
 \---
 

@@ -13,6 +13,13 @@ The final notebook export/report is submitted separately through Wiseflow as par
 
 This repository contains the notebook, Streamlit app and supporting project files.
 
+Project Links
+Streamlit app:
+https://natural-gas-time-series-analysis.streamlit.app/
+
+GitHub repository:
+https://github.com/kstrandos/natural-gas-time-series-analysis
+
 \---
 
 ## Project Overview
